@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @qayumonte
+- 👀 I am a novice tester (QA Engineer).
+- 🌱 I also additionally study the basics of Python, JavaScript, HTML5, and CSS3.
+- 💞️ I want to become a developer in the future.
+- 📫 melihovayumonte@gmail.com
+- 😄 I am actively looking for a job as a tester.
