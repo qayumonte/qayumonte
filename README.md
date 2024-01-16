@@ -6,6 +6,7 @@
 - 😄 I am actively looking for a job as a tester.
 
 Инженер по тестированию
+
 Мои навыки:
 - Jira, Sitechco, Confluence, Qase, Miro, DevTools, Swagger, DBeaver
 - Postman, PostgreSQL, Charles, JMeter
